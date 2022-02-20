@@ -1,0 +1,133 @@
+#header-nav{
+    
+    background-color: #8d8d8d;
+    border-radius: 0px;
+    border: 2px solid black;
+    }
+.nav-p{
+    margin: 3px;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+.menu{
+    text-align: center ;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+
+.box1{
+    background-color: rgba(128, 128, 128, 0.794);
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.pp-1{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+
+
+}
+.box2{
+    background-color: rgba(128, 128, 128, 0.794);
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.pp-2{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.box3{
+    background-color: rgba(128, 128, 128, 0.794);
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.pp-3{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.p-1{   
+    width: 120px;
+    text-align: center;
+    color: black;
+
+}
+
+
+.p-2{
+     width: 120px;
+    text-align: center;
+    color: black;
+}
+
+.p-3{
+    width: 120px;
+    text-align: center;
+    color: black;
+
+}
+
+.p-1b1{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:center;
+}
+
+.p-2b2{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:center;
+}
+
+.p-3b3{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:center;
+}
+
+#nav-list a:hover{
+    background:gray;
+}
+
+#nav-list a span{
+    font-size: 1.8em;
+}
+
+#phone a {
+    margin-top:5px;
+    padding-bottom:0 ;
+}
+
+#phone div{
+    color: black;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 1em solid black;
+}
